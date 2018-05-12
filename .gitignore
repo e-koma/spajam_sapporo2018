@@ -34,3 +34,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Assets/BulletXNA*
+Assets/MMD4Mecanim*
+Assets/こんぴら桃萌*
+

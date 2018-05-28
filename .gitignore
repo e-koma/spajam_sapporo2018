@@ -34,3 +34,19 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Assets/BulletXNA*
+Assets/MMD4Mecanim*
+Assets/こんぴら桃萌*
+Assets/Furniture_ges1*
+Assets/UnityChan*
+Assets/UTJ*
+Assets/Plugins.meta
+Assets/Plugins/RootMotion*
+Assets/KizunaAI_ver1.01*
+Assets/Mirai_Akari_v1.0*
+Assets/SiroDanceCostume_v1.0*
+Assets/SiroDanceWinterCostume_white_v1.1*
+Assets/ceo_3D_1.0.0*
+Assets/MySound*
+Assets/MyAnimations*
